@@ -1,3 +1,8 @@
-# My Awesome Book
+# 工作中遇到的问题
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+本文列出的问题都是本人在工作中遇到的问题及其分析
+
+
+
+2017-01-01
+
